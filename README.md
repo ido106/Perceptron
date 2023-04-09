@@ -7,7 +7,7 @@ In particular, we will implement the [Perceptron algorithm](https://en.wikipedia
 A perceptron is a Machine Learning type computer program that can learn how to make decisions based on some data. The Perceptron takes information about some data and then use that information to make decisions.  
 Before trying to understand the algorithm, I suggest reading about the Perceptron first.
 
-**Let's give an example:**
+**Let's give an example:**  
 Suppose we want to teach the perceptron how to tell the difference between a car and a motorcycle.  
 First, we will probably show it a lot of images of cars and motorcycles and tell it what each image is.  
 The perceptron would look at the tagged images we provided, and try to find the differences between a motorcycle and a car. It is likely that It will first notice that a motorcycle has two wheels and a car has four wheels, that the motorcycle is a small, open vehicle compared to the car, and so on.  
