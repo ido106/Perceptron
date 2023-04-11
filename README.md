@@ -1,4 +1,5 @@
-# The Perceptron Algorithm - Machine Learning
+# The Perceptron Algorithm
+[To the previous ML exercise - KNN](https://github.com/ido106/KNN) | [To the next ML exercise - Neural Networks](https://github.com/ido106/Neural-Network-CNN)
 ## Introduction
 In this exercise we will touch the world of [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning).  
 Machine learning is a branch of [Artificial Intelligence (AI)](https://en.wikipedia.org/wiki/Artificial_intelligence) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.  
